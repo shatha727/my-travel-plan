@@ -1,4 +1,4 @@
-√÷Ì›Ê« «·„⁄·Ê„«  «· «·Ì… ≈·Ï „·› CSS:
+√É√ñ√≠√ù√¶√á √á√°√£√ö√°√¶√£√á√ä √á√°√ä√á√°√≠√â √Ö√°√¨ √£√°√ù CSS:
 
 html {
 box-sizing: border-box;
@@ -21,6 +21,9 @@ height: 100%;
 margin: auto;
 padding: 1em;
 width: 80%;
+}
+.destination:hover h2 {
+transform: rotate(0deg);
 }
 
 .destination-container {
